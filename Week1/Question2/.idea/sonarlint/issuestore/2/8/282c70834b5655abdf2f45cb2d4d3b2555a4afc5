@@ -1,0 +1,22 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(€ŞÊšûÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿É—œ
+0
+java:S1116"Remove this empty statement.(İ¿B
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(õ¶ÿÂûÿÿÿÿ
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8ŸÆ“­ö0
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ŸÆ“­ö0
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ŸÆ“­ö0
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ŸÆ“­ö0
+J
+java:S1128	"-Remove this unused import 'java.time.ZoneId'.( Æ½“8ŸÆ“­ö0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ŸÆ“­ö0
+[
+java:S1128">Remove this unused import 'java.util.zip.DataFormatException'.(öÄë½8ŸÆ“­ö0

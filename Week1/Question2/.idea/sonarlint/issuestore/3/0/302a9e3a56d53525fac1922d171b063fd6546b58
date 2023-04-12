@@ -1,0 +1,14 @@
+
+`
+java:S1659"EDeclare "aadharNo" and all following declarations on a separate line.(Œ Ãžÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "month" local variable.(Œ Ãžÿÿÿÿÿ
+D
+java:S1481")Remove this unused "year" local variable.(Œ Ãžÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôñò»ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã³Ê¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™‰€…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®ˆâÞ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Çò‡­ö0
